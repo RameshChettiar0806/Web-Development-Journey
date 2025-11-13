@@ -1,0 +1,1 @@
+alert("Body Background Color is Black while the text inside the body is red")
