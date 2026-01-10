@@ -15,3 +15,5 @@ All lecture files live under the HTML/ directory; many lectures also include Not
 ---
 
 _This README is a quick guide — open the HTML folder to explore each lecture in detail._
+
+_This README and its folder structure is subject to change and entirely depends upon the owner's choice and will_
